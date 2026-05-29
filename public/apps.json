@@ -1,0 +1,28 @@
+{
+  "apps": [
+    {
+      "name": "Codenames",
+      "link": "https://mainframe.iguanodon-matrix.ts.net:3000/"
+    },
+    {
+      "name": "Jellyfin",
+      "link": "http://mainframe:8096"
+    },
+    {
+      "name": "Music Synchronizer",
+      "link": "http://mainframe:8000"
+    },
+    {
+      "name": "Immich",
+      "link": "http://mainframe:2283"
+    },
+    {
+      "name": "Home Assistant",
+      "link": "http://mainframe:8123"
+    },
+    {
+      "name": "Hashicorp Vault",
+      "link": "http://mainframe:8200"
+    }
+  ]
+}

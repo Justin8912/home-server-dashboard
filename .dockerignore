@@ -1,0 +1,12 @@
+node_modules
+dist
+.npmrc
+package-lock.json.artifactory.bak
+.git
+.gitignore
+*.local
+.DS_Store
+README.md
+Dockerfile
+.dockerignore
+npm-debug.log*

@@ -19,6 +19,6 @@ jobs:
         
             - name: Upload image
               uses: bash
-              steps: |
+              run: |
                 docker build . -t justin8912/home-server-dashboard
                 docker push justin8912/home-server-dashboard:latest

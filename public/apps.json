@@ -23,6 +23,10 @@
     {
       "name": "Hashicorp Vault",
       "link": "http://mainframe:8200"
+    },
+    {
+      "name": "Plex",
+      "link": "http://mainframe:32400"
     }
   ]
 }

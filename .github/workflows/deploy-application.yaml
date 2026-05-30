@@ -18,7 +18,7 @@ jobs:
                 password: ${{ secrets.DOCKERHUB_PAT}}
         
             - name: Upload image
-              uses: bash
+              shell: bash
               run: |
                 docker build . -t justin8912/home-server-dashboard
                 docker push justin8912/home-server-dashboard:latest
